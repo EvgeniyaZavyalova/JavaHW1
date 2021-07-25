@@ -7,12 +7,13 @@
 На тестирование затрачено: <2 часа>
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
+* <https://github.com/EvgeniyaZavyalova/JavaHW1/issues/1#issue-947799482https://github.com/EvgeniyaZavyalova/JavaHW1/issues/1#issue-947799482>
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* <название артефакта>
+* <Инструкция по установке IntelliJ IDEA>
+* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md>
 
 В качестве тестовых данных использовались данные <https://www.freeformatter.com/credit-card-number-generator-validator.html>:
 * <VISA 4556511050273248 Result is OK>
@@ -31,5 +32,5 @@
 * <Maestro 6761638083672348 Result is OK>
 
 Тестирование производилось в следующем окружении:
-* <версия и разрядность ОС>
+* <Windows 10 Pro 1903 12.02.2021 18362.295 64-разрядная ОС>
 * <версия Java 11.0.11>
